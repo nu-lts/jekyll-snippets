@@ -1,2 +1,7 @@
-name: Your New Jekyll Site
+name: Snell Snippets
 pygments: true
+
+exclude: [_sass]
+
+markdown: kramdown
+baseurl: http://nu-lts.github.io/jekyll-snippets/

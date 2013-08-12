@@ -1,0 +1,31 @@
+---
+author: Katherine Herrlich
+comments: true
+date: 2010-10-07 19:28:01+00:00
+layout: post
+slug: new-use-the-dsm-iv-online
+title: 'New: Use the DSM-IV Online!'
+wordpress_id: 2434
+categories:
+- Library News and Events
+- Psychology
+- Serendipity
+tags:
+- APA
+- DSM
+- DSM-IV
+- mental health
+- psychiatric disorders
+- Psychology
+- StatRef
+---
+
+The long-awaited [e-version of the DSM-IV TR](http://0-online.statref.com.ilsprod.lib.neu.edu/Notes/ResolveNote.aspx?NoteID=39176&grpalias=NEU) has arrived.  (Its formal name is the Diagnostic and Statistical Manual of Mental Disorders, fourth edition, text revision, 2000.)  The Libraries' new subscription to this resource means that NU students, faculty, and staff can now access the full text version from anywhere. 
+
+If this isn't a household name to you, I should explain that the "DSM" is produced by the American Psychiatric Association and is considered the essential tool for mental health providers to diagnose patients in this country.  It is likely that you or someone you know, at some point, has been affected by this document.  It undergoes revisions approximately every 6 to 10 years, as researchers bring to light new information, which in turn changes the professional view and body of knowledge about how mental disorders are categorized and subsequently treated.
+
+You can read more about this diagnostic tool, and the history of diagnosis and classification of psychiatric disorders, in the article "Mental and Behavioral Disorders, Diagnosis and Classification of": [doi:10.1016/B0-08-043076-7/01285-7](http://0-dx.doi.org.ilsprod.lib.neu.edu/10.1016/B0-08-043076-7/01285-7) . (This article comes from our subscription resource called the [International Encyclopedia of Social and Behavioral Sciences](http://0-www.sciencedirect.com.ilsprod.lib.neu.edu/science/referenceworks/0080430767).)
+
+To find the text of the [DSM-IV TR itself, link here](http://0-online.statref.com.ilsprod.lib.neu.edu/Notes/ResolveNote.aspx?NoteID=39176&grpalias=NEU) or go to the "All Databases" A-Z list and scroll down to "StatRef."  This resource allows five people to use it at one time. (Other titles within StatRef vary from 1 to 5 users.)
+
+This is a frequently-used resource at Snell Library; we hope you will enjoy this improvement in access!

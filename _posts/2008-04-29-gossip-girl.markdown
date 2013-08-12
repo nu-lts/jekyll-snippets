@@ -1,0 +1,26 @@
+---
+author: Emily Sabo
+comments: true
+date: 2008-04-29 21:44:43+00:00
+layout: post
+slug: gossip-girl
+title: Gossip Girl
+wordpress_id: 131
+categories:
+- Read, Listen, Watch
+tags:
+- Ed Westwick
+- Gossip Girl
+- TV
+- tv/movie adapations
+---
+
+Last night, for the first time, I watched the show _Gossip Girl_.  My roommate is a fan, and so I finally watched it with her.  Despite having a quite a few friends who are fans, I've held off watching, even as the [hype has grown](http://nymag.com/arts/tv/features/46225/). 
+
+I remember reading about the (book) series several years ago and thinking it sounded _[horrible](http://www.nytimes.com/2006/03/12/books/review/12wolf.html?scp=2&sq=gossip+girl+books+naomi+wolf&st=nyt).  _A series about debauched materialistic teenagers, without any moral characters-and it was a big hit? Yikes.  And so I internally groaned, when I read that it was being turned into a TV series.   
+
+I think that plays, TV shows, films, etc., as they include human actors, humanize certain plot lines-these events "really" happen to an actual person.  I think this is why filmed or visually represented violence can be so much more disturbing (and lasting in memory) compared to something you read about.  I thought that _Gossip Girl _was alright, but I don't plan on becoming a regular viewer.
+
+My favorite character is ‘evil' Chuck Bass, in part because of his clothes-extremely tight yellow jeans, a purple cardigan, with a teal and pink ascot; a bright red frock coat; an orange trench coat; in part because he seems so over the top, and because he's played by a [Brit!](http://www.imdb.com/name/nm2067953/)
+
+Have any of you read the books or watched the TV show?  What do you think?

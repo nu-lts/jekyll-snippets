@@ -1,0 +1,16 @@
+---
+author: G. Karen Merguerian
+comments: true
+date: 2008-07-02 19:04:09+00:00
+layout: post
+slug: goodbye-to-a-boston-native-tasha-tudor
+title: Goodbye to a Boston native, Tasha Tudor
+wordpress_id: 178
+categories:
+- Information and Society
+- Read, Listen, Watch
+---
+
+![Book Jacket](http://g-ecx.images-amazon.com/images/G/01/ciu/c4/e6/e251225b9da04aa1685ab010.L.jpg)
+
+Tasha Tudor, born in Boston, died at age 92 a week ago last Thursday.  Her lovely illustrations for children's books seem like they are from the nineteenth century, so much so that I'm not sure I realized she was still living until I heard the news.   I remember being transported by her pictures in a book of fairy tales (shown at left) when I was a little girl.  Like Garth Williams and Beatrix Potter they are really grown-up art, art that shows a deep respect for children and their imaginations, art to transport children to some lofty, magical place, the opposite of everyday and mundane.  Anyone else have any favorites?

@@ -1,0 +1,26 @@
+---
+author: Tricia Earnshaw
+comments: true
+date: 2008-04-28 18:02:08+00:00
+layout: post
+slug: what-are-they-teaching-in-library-school-these-days
+title: What ARE they teaching in Library School these days?
+wordpress_id: 129
+categories:
+- Information and Society
+tags:
+- Drexel University
+- Library School
+- Systems Analysis
+- Web Design
+---
+
+Well, as many of you may know, I am going to school to get my Masters in Library Science through [Drexel University's online program](http://www.drexel.com/online-degrees/information-sciences-degrees/ms-di/index.aspx).  I thought maybe you would be interested in hearing about the classes I am taking (this quarter, at least).
+
+I am taking two courses, the first of which is Introduction to Information Systems Analysis (fancy-speak for just Systems Analysis).  It's basically an overview of what it is to be a systems analyst.  To be perfectly honest...this is not my favorite course.  There are a lot of dense terms, that when read in a 40-page chapter can make my head fuzzy.  But, the professor teaching the class has a really good sense of humor and likes to joke around, so that definitely lightens the mood.  For my final project, we are asked to analyze a system (real or made up) and write a proposal to the "powers that be" in how to implement or improve that system.  I decided I wanted to analyze and propose a system on implementing a library blog!
+
+The second course I am taking is Internet Information and Resource Design (fancy-speak for Web Design).  In this course, we are making webpages, while learning about the different aspects of designing for the web.  By the end of the quarter, we will have two webpages- one by using HTML code and the other with a website design software (namely, Dreamweaver).  As you may have guessed, the first website we are creating is being done strictly with HTML code.  Which is really...how can I put this?...DAUNTING.  I have nightmares about tags, lists, and tables.  The website I am working on now is on my writing-more specifically, poetry.  I promise to post the link when it is finished, but I am warning you.  Let me just put it this way- not only will you get to see my horrible website making skills, you'll also get to see my horrible writing skills as well! (Just kidding!...I suppose.)
+
+I have been asked a lot of questions on how online classes actually work on a daily basis.  I'm sure each program at each school is different, but I think Drexel has it down pretty well.  Drexel uses Blackboard as a learning space.  Each week new lectures (usually Word documents) and assignments are posted by the professors.  We, as the students, read the lectures and any other readings that are given to us, whether from our books, websites, or journal articles.  Then, we complete the assignments (usually exercises or activities) submit them through either email, the Assignment Manager, or the Digital Dropbox in Blackboard.  Finally, we post to the class discussion board on the topic given for the week.  Everything is posted by the professor by Monday morning and is due on the following Sunday by midnight.  This is all done very independently and at "one's own pace."
+
+Although I am enjoying my courses and look forward to the outcome, Library School + Full-time job = Stress City.  I have decided to take the summer off and then start again in the Fall with only one course a quarter.  I will get my degree a little slower than anticipated, but definitely with my sanity intact.

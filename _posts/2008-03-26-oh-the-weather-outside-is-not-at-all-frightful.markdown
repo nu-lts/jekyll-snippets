@@ -1,0 +1,27 @@
+---
+author: Dan Stoller
+comments: true
+date: 2008-03-26 19:38:33+00:00
+layout: post
+slug: oh-the-weather-outside-is-not-at-all-frightful
+title: Oh the weather outside is (not at all) frightful
+wordpress_id: 93
+categories:
+- Staff Interests
+---
+
+I'm going to go off on a narcissistic tangent right now, so hold on and I promise the part about me will be over soon enough.
+
+Today, March 26, is my birthday. I'm 19. On this same day, every year, for the past 19 years, it has been a beautiful day. The springs in Seattle, where I grew up, are notoriously mild but rainy. But come March 26th, out comes the sun, and away goes the rain.
+
+ So this morning, when a close friend woke me with a birthday phone call, the first thing I asked was, "How's the weather?"
+
+I was pleased to hear that in fact, the weather was nice. And is nice. As I sit here in this well-lit office typing this post, the entire campus is illuminated by the glow that means (hopefully) the nasty weather is on its way out, and spring finally stopped hitting the snooze button.
+
+ With this new, improved weather, I've started running outside again.
+
+There's nothing better (in my mind) than lacing up the running shoes and taking a spin through some of the more beautiful parts of Boston. So without ado, here is my favorite, easy running loop.
+
+Starting at Northeastern's Marino Center, run North towards the Fens. Once you get there, take a left on the path that runs along the rim of the Fens. As you run along, you'll notice another, parallel path to your right that is at a lower elevation. For the maximum nature exposure, run along this path. Continuing past the Fens, you'll eventually cross Agassiz Rd. If you continue, the Fens eventually hits Boylston, where it loops back towards the start. At this point, I usually let my feet decide where in the Fens' trails I want to go, but you can also follow the loop back.
+
+I love this small park because of the density of nature compared to the rest of the city. Coming from the Evergreen State, trees are integrated into even the most urban parts of Seattle. So the Fens is my small way of recapturing my youthful love of all things nature. (Approx. 2 miles)

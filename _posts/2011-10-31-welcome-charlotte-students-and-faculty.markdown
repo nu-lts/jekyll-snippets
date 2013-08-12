@@ -1,0 +1,29 @@
+---
+author: G. Karen Merguerian
+comments: true
+date: 2011-10-31 16:14:43+00:00
+layout: post
+slug: welcome-charlotte-students-and-faculty
+title: Welcome, Charlotte students and faculty!
+wordpress_id: 4401
+categories:
+- Library News and Events
+- Research Online
+- Serendipity
+tags:
+- Charlotte
+---
+
+As I was driving in to work today, I heard on our local news/traffic/weather radio station that Northeastern formally announced the opening of its campus in Charlotte, North Carolina today.
+
+We've been looking forward to this day for many months and we want you to know that the Northeastern University libraries are open to you in Charlotte as to any NU students and faculty anywhere. While you may not be able to settle into a comfy chair in the Snell Library, you do have access to all of our online research resources and services. Here are the three I think are most important for you.
+
+[First is the Discovery search box on the library home page](http://www.lib.neu.edu). This search helps you find journal articles and reports related to any research topic. It includes citations from our research databases including Medline, CINAHL, JSTOR, and hundreds of other publishers and vendors, in a single search.
+
+The key to access is your myNEU username and password, which you'll need to log in. If you don't have one, please contact the NU help desk at (617) 373-HELP (4357).
+
+[Second are research guides prepared by our librarians](http://subjectguides.lib.neu.edu) that can be used as a starting point for you to find out what specialized resources we have in your discipline like Education, Health Sciences, and Business.
+
+[Finally, our Ask a Librarian page](http://www.lib.neu.edu/ask) allows you to reach us with any questions you have about your research. You can text, phone, email, or use your browser to get in touch with us for anything from quick questions to more extended research assistance.
+
+Welcome to Northeastern, and we look forward to working with you!

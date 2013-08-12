@@ -1,0 +1,22 @@
+---
+author: Stephanie Knutson
+comments: true
+date: 2008-04-22 17:21:06+00:00
+layout: post
+slug: desk-set
+title: Desk Set
+wordpress_id: 122
+categories:
+- Read, Listen, Watch
+tags:
+- computer
+- Desk Set
+- Katharine Hepburn
+- Library
+- reference
+- review
+- Snell
+- Spencer Tracy
+---
+
+If you like movies and libraries, I've got a recommendation for you. [_Desk Set_ ](http://www.imdb.com/title/tt0050307/)(1957) is a comedy, starring [Katharine Hepburn ](http://www.imdb.com/name/nm0000031/)and [Spencer Tracy](http://www.imdb.com/name/nm0000075/), set in the reference library at a television network. Hepburn is the head librarian and Tracy is a man hired by the company to install the "electronic brain" aka very large computer in the reference department. The librarians fear that with the installation of this new bit of technology, they will all soon be out of a job. Faced with this possibility, Hepburn sets out to prove that no computer can ever match the abilities of the human mind. You can find this film and many others here in [Snell Library](http://www.lib.neu.edu/).

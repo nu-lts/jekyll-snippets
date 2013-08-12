@@ -1,0 +1,33 @@
+---
+author: Kimberly Izar
+comments: true
+date: 2011-11-22 16:11:42+00:00
+layout: post
+slug: snell-gets-a-permanent-upgrade
+title: Snell gets a permanent upgrade!
+wordpress_id: 4467
+categories:
+- Serendipity
+tags:
+- group work
+- innovation
+- media:scape
+- Northeastern
+- Snell Library
+- study
+- Technology
+---
+
+In addition to the already available group study rooms located throughout Snell, four new media:scape tables were recently installed on the first floor for all members of the University to use. These high-tech tables are an efficient, modern approach to increase effective group interaction by allowing all students to engage in the project and freely share their ideas.
+
+![](http://vvrotny.org/files/2010/01/MediaScapeHigh_1_01_b.jpg)
+
+So how exactly do these media:scape tables work? Each station is equipped with one or two monitors which students can use to display their laptop screens by simply plugging it into a central outlet. With a stylish layout of tables and chairs, students can both relax and communicate with one another while their group work is projected on the large monitor. Through these new media:scape tables, information is now easier to convey and display to group mates all while students are sitting in one of the comfortable ergonomic seats.
+
+What is so unique about the new media:scape tables is that they are a direct result of what Northeastern students requested! Last fall, Snell sampled a table for about three months to observe how often students used it, if at all. The feedback that Snell Library received was overwhelmingly positive, confirming that the media:scape tables would definitely be a worthwhile investment.
+
+These new media:scape tables offer students an innovative, learning environment, which is what the Library aspires to create. Currently, the Library and University is eager to explore more ways to utilize its study space and equipment, but these permanent stations have definitely put us on the right path to do so.
+
+If you've used one of our tables, let us know about your experience by filling out our data collection survey! [Click here to fill it out](https://www.surveymonkey.com/s/3N365J8).
+
+For more information about the media:scape stations, [please visit here](http://www.steelcase.com/en/products/category/workspace/freestanding/media-scape/Pages/overview.aspx)!

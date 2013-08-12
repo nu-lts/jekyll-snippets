@@ -1,0 +1,19 @@
+---
+author: Kelsey Strout
+comments: true
+date: 2011-07-21 20:33:27+00:00
+layout: post
+slug: northeastern-hosts-first-farmers-market-on-campus
+title: Northeastern Hosts First Farmer's Market on Campus
+wordpress_id: 3817
+categories:
+- Serendipity
+---
+
+July 20, 2011 marked the (much anticipated) first ever farmer's market at Northeastern! Due to issues involving city permits, the event had to be postponed for many weeks; however, it was well worth the wait! Heaven's Harvest Farm, located in New Braintree, MA, is a certified organic farm, partnered with six other farms in the surrounding Massachusetts area.
+
+Heaven's Harvest Farm provided fresh picked, organic products including Asian greens, lettuces, sweet potatoes, tomatos, eggplant, broccoli, spinach, sweet corn, berries, apples, herbs, pears and peaches (to name a few). They also had eggs and cheese!
+
+The market was held in Centennial Circle, between Ryder Hall and Ruggles Station, from 12pm to 6pm and it was such a hit that much of the produce was gone by 4pm.
+
+The Farmer's Market will be on campus every Wednesday until late fall, so if you missed out on this week, you still have plenty of other opportunities. I recommend getting there early so you don't miss out on their selection of produce!

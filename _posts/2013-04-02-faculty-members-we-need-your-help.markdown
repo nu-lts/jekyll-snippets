@@ -1,0 +1,27 @@
+---
+author: Rebecca Merz
+comments: true
+date: 2013-04-02 16:00:55+00:00
+layout: post
+slug: faculty-members-we-need-your-help
+title: 'Faculty Members: We Need Your Help'
+wordpress_id: 5849
+categories:
+- Research Online
+tags:
+- usability
+- usability testing
+- website
+---
+
+The library's Web Steering committee is looking for faculty members from all disciplines to help us improve our website. Over the next month or so we would ask you to come to the library, or we could come to your office, and have you perform a series of tasks via our website, so we can see how easy or difficult they are to perform. This is a test of the site's ease-of-use, and in no way a test of your abilities!
+
+If you've always wished you could show us how you interact with our site, this is a great opportunity. We would need 20-30 minutes of your time, and we are offering a $20 gift card to your choice of the NU Bookstore (Barnes and Noble) or Starbucks as compensation.
+
+We appreciate those of you who have helped us with similar testing in the past! We are currently seeking new volunteers who have not done this before with the library.
+
+If the month of April is not a good time for you, we anticipate that there will be more opportunities for testing later in the year.
+
+Please contact Karen Merguerian at [g.merguerian@neu.edu](mailto:g.merguerian@neu.edu) or x2747 if you are interested in participating in this project now or in the future. And please forward this appeal to others you think may want to help.
+
+Thank you so much for your consideration!

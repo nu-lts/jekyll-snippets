@@ -1,0 +1,19 @@
+---
+author: Debbie Pennino
+comments: true
+date: 2008-03-05 22:15:13+00:00
+layout: post
+slug: year-of-the-frog
+title: 'Year of the Frog '
+wordpress_id: 60
+categories:
+- Staff Interests
+- Sustainability
+tags:
+- froglets
+- Maud Island frogs
+- New Zealand
+- year of the frog
+---
+
+Someone asked me if I had heard about a rare and threatened New Zealand Maud Island frog that has been found to be breeding in the [Karori Wildlife Sanctuary](http://www.sanctuary.org.nz/). Of course being a Kiwi I should have known about this but no it was new to me. So I did a Google search and found quite a few news items about this wonderful small little frog. It has started to breed again and this is wonderful as according to the article it wasn't even doing that on its home island of Maud. The article also mentioned that this frog has eveloved little over the last 70 million years. Wow that is, well for want of a better word "mind blowing" that a species is here now and has been around for that length of time. These rare frogs do not croak, live in water or have webbed feet sorather different from your regular frog. But  [Thirteen little froglets ](http://www.sanctuary.org.nz/whatsnew/news/news129.html)have been born and as this is the Year of the Frog what could be more wonderful. Keep on breeding Maud Island frogs.

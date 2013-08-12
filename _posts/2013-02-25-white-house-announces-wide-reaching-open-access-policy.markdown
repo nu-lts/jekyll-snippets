@@ -1,0 +1,49 @@
+---
+author: Hillary Corbett
+comments: true
+date: 2013-02-25 14:20:53+00:00
+layout: post
+slug: white-house-announces-wide-reaching-open-access-policy
+title: White House Announces Wide-Reaching Open Access Policy
+wordpress_id: 5712
+categories:
+- Scholarly Communications
+tags:
+- Faculty
+- open access
+- research
+- scholarly communication
+---
+
+On Friday afternoon, [the White House Office of Science and Technology Policy (OSTP) issued a memorandum containing some pretty big news](http://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf) (PDF): all federal agencies with annual research or development expenditures over $100 million must develop policies that will ensure public access to the results of the research activity that they fund.
+
+The White House has twice previously invited comments on the topic of open access to federally funded research, and in May 2012 an online ["We the People" petition](https://petitions.whitehouse.gov/petition/require-free-access-over-internet-scientific-journal-articles-arising-taxpayer-funded-research/wDX82FLQ?utm_source=wethepeople&utm_medium=response&utm_campaign=access) gathered in only two weeks the 25,000 signatures required to get a response from the Obama administration (the petition currently has over 65,000 signatures). John Holdren, President Obama's science advisor and director of the OSTP, issued that response on Friday, linking to the memorandum prepared by his office and saying, "The Obama Administration agrees that citizens deserve easy access to the results of research their tax dollars have paid for... [and] is committed to ensuring that the results of federally-funded scientific research are made available to and useful for the public, industry, and the scientific community."
+
+You may have heard about the recently proposed [Fair Access to Science and Technology Research Act](http://cyber.law.harvard.edu/hoap/Notes_on_the_Fair_Access_to_Science_and_Technology_Research_Act), aka "FASTR." It's the successor to the Federal Research Public Access Act (FRPAA) legislation that was first proposed in 2006 but has never been voted on by Congress. FASTR, if it passes Congress, would legislate open access to federally funded research, but given the length of time FRPAA languished, that's certainly not guaranteed to happen quickly. However, the OSTP memorandum directs these federal agencies to start preparing their access policies immediately, with a deadline of six months for implementation.
+
+
+#### What does this mean for researchers?
+
+
+If you receive research funding from one of the federal agencies covered by this directive*, your published articles and, in some cases, research data will need to be submitted to an open access repository within 12 months of publication. While it's too early yet to know the specifics of how each agency will choose to comply with the directive and at what moment their policies will go into effect, it's not a stretch to assume that the new policies will probably look a lot like the NIH's Public Access Policy, implemented in 2008, which requires funding recipients to deposit their articles in PubMedCentral. (In many cases publishers assist with the deposit process. You can read more about the NIH policy [on our website](http://library.northeastern.edu/services/scholarly-communication/for-faculty/complying-with-the-nih-public-access-policy).) As a result, your research results will reach a vastly wider audience, including all American taxpayers.
+
+_*[An incomplete list of these agencies from John Wilbanks](http://twitter.com/wilbanks/status/305024820356210688) includes: the Environmental Protection Agency; NASA; the National Science Foundation; the Smithsonian Institution; and the Departments of Agriculture, Commerce, Defense, Education, Energy, Health and Human Services, Homeland Security, the Interior, State, and Transportation. It isn't yet clear whether the National Endowment for the Humanities is included. I'll update this post when more information is available._
+
+
+#### Further reading:
+
+
+
+
+
+	
+  * Nature News Blog, ["](http://blogs.nature.com/news/2013/02/us-white-house-announces-open-access-policy.html)[White House announces new US open access policy"](http://blogs.nature.com/news/2013/02/us-white-house-announces-open-access-policy.html) (February 22, 2013)
+
+	
+  * Peter Suber, ["Second shoe drops: new White House Directive mandates OA"](https://plus.google.com/109377556796183035206/posts/8hzviMJeVHJ) (February 22, 2013)
+
+	
+  * SPARC, "[SPARC applauds White House for landmark directive opening up access to scientific research](http://www.arl.org/sparc/media/sparc-applauds-white-house-for-landmark-directive-.shtml)" (February 22, 2013)
+
+
+

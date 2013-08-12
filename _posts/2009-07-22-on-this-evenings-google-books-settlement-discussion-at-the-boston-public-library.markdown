@@ -1,0 +1,35 @@
+---
+author: Maria Editor
+comments: true
+date: 2009-07-22 02:26:47+00:00
+layout: post
+slug: on-this-evenings-google-books-settlement-discussion-at-the-boston-public-library
+title: On this evening's Google Books Settlement Discussion at the Boston Public Library
+wordpress_id: 282
+categories:
+- Information and Society
+tags:
+- Anne Wolpert
+- Daniel Clancy
+- Google
+- Google Books Project
+- Hal Abelson
+- Maura Marx
+- Open Content Alliance
+- Open Library Project
+---
+
+"The future is here, but it doesn't come to everyone at the same rate."-- Hal Abelson, MIT
+
+
+
+
+In a nutshell: there seemed to be three major issues of concern (or queasiness as they echoed to each other) that the panelists (and the moderator) had, sans the Face of Google guy, Daniel Clancy.  Monopolization of the books market, access to library users and concerns of cost to libraries, commercialization of orphan works and the transformation of written culture.  Regarding the monopolization issue, John Palfrey of Harvard Law School, said "game over" if the settlement is ruled favorably.  He claimed that no one else will have the incentive to compete against Google in the digital books market.  Palfrey is also concerned regarding orphan works (works whose copyright owner cannot be found after an effort) and what will happen to orphan works legislation as a result of the Google Books settlement decision.  Palfrey and Anne Wolpert of MIT, also expressed 'queasiness' over the commercialization of orphan works.  Wolpert talked about the pricing model of Google Books.  She explained that individuals could subscribe, that libraries could have one dedicated terminal with access to the Google Books project, or libraries could subscribe to the entire corpus.  She took issue with the undefined pricing, which Dan Clancy said would adjust to the market.  Wolpert's key point was that libraries have been burned in the past by publishers who had a monopoly on literature in specific fields.  She also made the point that libraries have paid some of the costs in the development of the corpus that is Google Books, as well as taxpayers supporting public libraries.
+
+
+
+
+Personally, I agree with the points made.  Regarding orphan works, it is my understanding that identifying, digitizing and making acccessible more orphan works is to the greater good of society (and will ultimately help to identify previously unknown copyright holders).  However, the difference between a project like the Open Library Project through the Open Content Alliance and Google Books is that the latter seeks a profit.  My lingering question is to those libraries that signed up with Google Book Project.  Did they think about the greater long term ramifications to society of one business potentially controlling 40 million volumes of our nation's great libraries, before making a deal with a company whose philosophy Hal Abelson claims, is "Manifest Destiny"?
+
+
+

@@ -1,0 +1,30 @@
+---
+author: G. Karen Merguerian
+comments: true
+date: 2012-01-20 20:22:03+00:00
+layout: post
+slug: our-web-site-is-getting-a-makeover
+title: Welcome to the new Library website!
+wordpress_id: 4576
+categories:
+- Library News and Events
+- Tech Alerts
+post_format:
+- Standard
+---
+
+**Update: January 20, 2012 **-- The new site is live! Please have a look around, and let us know what you think, here in the comments, on [our Facebook page](http://www.facebook.com/pages/Northeastern-University-Libraries/71520567525), or on Twitter [@ClubSnell](https://twitter.com/#!/ClubSnell).
+
+--
+
+Coming soon, the Northeastern University Libraries will launch a redesigned web site at [library.northeastern.edu](http://library.northeastern.edu/). The site is the result of over a year of planning and building by myself and my Web Team colleagues Annie DeVane, Amanda Rust, and Diann Smothers along with the staff of the NU Libraries who helped us along the way.
+
+Many of you and your friends in the Northeastern community participated in usability testing, surveys and focus groups as part of this project. The resulting site is designed to be easy to use, and takes into account the primary functions you need when visiting the library online. It was a lengthy and robust process, we’re excited about the results, and can say with gratitude that it all began with you.
+
+The new homepage welcomes visitors with our familiar Discovery search as well as a NUCat search option. Links to our most popular services, like Room Booking, Ask a Librarian, and Interlibrary Loan are prominently displayed. New features include a redesigned menu, site search, and plenty of engaging exhibits, polls, featured resources, and news. A dropdown at the top of the homepage allows for selection of targeted resources for different types of users.
+
+Built on Drupal, an open-source web content management system, the new website is flexible, configurable, and allows for innovation and sustainable growth going forward.
+
+The site is the first part of a number of initiatives and redesigned online services planned for the coming year, including improvements to searching and room booking.
+
+The top of the page will have a link to a form for you to contribute your feedback. You can comment there, or on this blog, about the new site. We look forward to hearing from you!

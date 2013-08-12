@@ -1,0 +1,21 @@
+---
+author: damong
+comments: true
+date: 2009-12-11 15:46:20+00:00
+layout: post
+slug: by-jove-snell-has-it-on-one-of-the-best-books-of-poetry-ever
+title: 'By jove, Snell has it: on one of the best books of poetry. Ever. '
+wordpress_id: 711
+categories:
+- Read, Listen, Watch
+---
+
+![](http://ecx.images-amazon.com/images/I/41BFR9AZBBL._SL500_AA240_.jpg)
+
+In 1984, poets [Seamus Heaney ](http://nucat.lib.neu.edu/search~S13/?searchtype=X&searcharg=seamus+heaney&searchscope=13&sortdropdown=-&SORT=DZ&extended=1&searchlimits=&searchorigarg=Xphilip+larkin%26SORT%3DDZ)and [Ted Hughes ](http://nucat.lib.neu.edu/search~S13/?searchtype=X&searcharg=ted+hughes&searchscope=13&sortdropdown=-&SORT=DZ&extended=1&searchlimits=&searchorigarg=Xseamus+heaney%26SORT%3DDZ)put together a collection of poetry called _[The Rattle Bag](http://nucat.lib.neu.edu/search~/a?searchtype=X&searcharg=the+rattle+bag&SORT=D)_. While not widely known, probably even among poets (what's left of them), this is one of the more wide-ranging, enthusiastic and purely neat books of poetry to my mind. I don't claim to be the foremost authority on poetry: I wrote a lot of it in High School, when I studied Creative Writing at [Walnut Hill school ](http://www.walnuthillarts.org/)in Suburban Massachusetts. That is when I was introduced to the book, by way of my teacher, [Daniel Bosch. ](http://www.amazon.com/Crucible-Daniel-Bosch/dp/1590510208/ref=sr_1_1?ie=UTF8&s=books&qid=1259875785&sr=1-1)Since High school, I have moved on to other poetic forms and barely written any actual poetry.
+
+But I still have _The Rattle Bag_. I still frequently read it, too, as creased and wrinkled and brown as it's beginning to look. The main reason for this is that anything can be found inside. This means any sort of poem-- anything from 'As I came in by Fiddich-Side,' a Scottish medieval ballad, to 'Mushrooms' by Hughes' former wife, [Sylvia Plath](http://nucat.lib.neu.edu/search~/a?searchtype=X&searcharg=sylvia+plath&SORT=D). It also means any type of sense, and all extremes of emotions. There is the necrophobia of the anonymous Welsh poem "Death." There is the the childish surrealism of [Lewis Carrol's ](http://nucat.lib.neu.edu/search~S13/?searchtype=X&searcharg=lewis+carroll&searchscope=13&sortdropdown=-&SORT=DZ&extended=1&searchlimits=&searchorigarg=Xsylvia+plath%26SORT%3DD)"The Mad Garnder's Song." There is the formal excellence-- or chilliness-- of [Philip Larkin's](http://nucat.lib.neu.edu/search~S13/?searchtype=X&searcharg=philip+larkin&searchscope=13&sortdropdown=-&SORT=DZ&extended=1&searchlimits=&searchorigarg=Xlewis+carroll%26SORT%3DDZ) poems, such as "Cut Grass." There is the narcissistic joy of "A True Account of Talking to the Sun at Fire Island," by Frank O' Hara. And there are the standard poets: Frost, Blake, Thomas. The guys you have to read.
+
+Yet with the guys you have to read, you won't find any of the typical poems that come to mind with them; no "Stopping by Woods on a Snowy Evening" by Frost, or "The Tiger" by Blake. It doesn't even matter whether or not the poem is written by a master or not. Heaney and Hughes have adopted the unusual but completely just form of organizing the poems alphabetically,  not by author. Due to this organization, the poems have to be read on their own terms, and not on the terms of the poet that wrote them. As a result, a poem called "Legend" by an obscure Australian poet [Judith Wright ](http://nucat.lib.neu.edu/search~S13?/Xjudith+wright&searchscope=13&SORT=DZ/Xjudith+wright&searchscope=13&SORT=DZ&extended=1&SUBKEY=judith%20wright/1%2C35%2C35%2CE/frameset&FF=Xjudith+wright&searchscope=13&SORT=DZ&3%2C3%2C)is at least as interesting as Dylan Thomas' "Fern Hill." Interest is precisely what Daniel used to get at in his classes, in terms of what writing should ultimately do. This is the view shared by Heaney and Hughes, I am sure, and the driving force behind the selections in _The Rattle Bag_.
+
+As a closing afterthought, Seamus Heaney has had a relationship to the Boston area for a long time now, ever since he started teaching classes at Harvard part time. I am not sure if he teaches there anymore, but when he did, self-promotion aside, I can only hope that he assigned this weird, sprawling, unceasingly interesting book to his students.

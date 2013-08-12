@@ -1,0 +1,31 @@
+---
+author: damong
+comments: true
+date: 2010-06-15 17:59:58+00:00
+layout: post
+slug: 8-blog-commandments
+title: 8 Blog Commandments
+wordpress_id: 1802
+categories:
+- Serendipity
+tags:
+- blog
+- photographs
+- proofreading
+- video
+---
+
+Dear Blog Contributers/soon to be contributers:
+As a follow up to what I discussed at the PCC meeting, here is a blog checklist for things people can keep in mind when they post to the blog. A version of this is also posted to the Programming and Communications Folder, under the Blog section.
+
+
+Things to make sure you do when writing a blog post:
+1.	Compose the post: Use lots of short paragraphs instead of one long paragraph (if you are quoting from another source, edit it down/summarize if it is too long.
+2.	Add a lot of links.
+3.	Make the title direct and catchy. For example, Damon Griffin did not title his summer reading exhibit post “Books to read this summer” he titled it,  “Summertime, Living’s Easy.” While this is catchy, a more direct title might be “Summertime, reading’s easy.”
+4.	If you are adding a photograph: Either drag it directly from the window in to the body of the post (this works for images from google), or use the photo upload icon—the square at the top of the post box—if it’s from the hard drive.
+5.	To Embed a Video: If it is too long to upload with the video upload icon, please refer to Karen for help. This will involve going in to the html.
+6.	Before submitting the post for review, proofread for spelling and grammer.
+7. Add categories this post pertains to, and at least 3 tags.
+8.	Comment on other posts as often as you can. More comments means more discourse.
+

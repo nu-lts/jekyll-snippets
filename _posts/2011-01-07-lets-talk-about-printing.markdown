@@ -1,0 +1,25 @@
+---
+author: Nina Shah
+comments: true
+date: 2011-01-07 21:22:44+00:00
+layout: post
+slug: lets-talk-about-printing
+title: Let's Talk about Printing
+wordpress_id: 2877
+categories:
+- Library News and Events
+- Serendipity
+- Sustainability
+tags:
+- Alumni
+- Faculty
+- Libraries
+- Library
+- print management
+- Printing
+- Snell Library
+- staff
+- Students
+---
+
+We welcome all library guests to use our space, services, and resources here at Snell Library; however, just as a reminder, printing from Snell Library computers is available to students, faculty, and staff of Northeastern University. If you are an alumnus, a Northeastern parent, or a user of government publications and would like to print, you can visit the Circulation Desk on Level One or the Research Assistance Desk on Level Two to request printouts. If you do not fall into one of the above categories, we recommend emailing your files to yourself or saving them to a flash drive (available for sale in the NU Bookstore) in order to print them from another location. If you have any questions, please contact Lesley Milner at [l.milner@neu.edu](mailto:l.milner@neu.edu).

@@ -1,0 +1,49 @@
+---
+author: Hillary Corbett
+comments: true
+date: 2011-03-22 19:51:47+00:00
+layout: post
+slug: how-has-the-nih-public-access-policy-affected-you
+title: How Has the NIH Public Access Policy Affected You?
+wordpress_id: 3320
+categories:
+- Information and Society
+- Library News and Events
+- Research Online
+- Scholarly Communications
+tags:
+- health
+- NIH
+- open access
+- PubMed Central
+- research
+- scholarly communication
+---
+
+Heather Joseph at [SPARC](http://www.arl.org/sparc/) writes, "It's hard to believe, but April 7, 2011 will mark the 3rd Anniversary of the implementation of the policy opening up access to articles reporting on the results of NIH-funded research." ([Read more about the NIH Public Access Policy here.](http://www.lib.neu.edu/services/scholarly/for_faculty/complying_nih/))
+
+SPARC is gathering stories from authors as well as readers about how having wider access to taxpayer-funded research has affected them. Joseph continues:
+
+
+
+> The policy has shown tremendous signs of success. PubMed Central now contains more than 2 million full text articles reporting on the latest NIH-funded research, and nearly a **half million** individuals access these articles each day.
+
+With this new wealth of information now available, we'd like to know what **your** experience has been with it. Specifically, we'd like to hear:
+
+1. How have you been using the database?
+2. Have you used the articles to help inform yourself about new developments in a specific area?
+3. Has the availability of these articles through PubMed Central helped you advance your research in ways that would not have occurred if they were not available?
+4. Have articles that you have authored appeared in PubMed Central as a result of the policy?
+5. Have you been contacted by other researchers who have found your work in the database, or vice versa?
+6. Have you taken any of the articles to your doctor or other health care provider?
+7. Has your healthcare provider used this database as a resource? (if you don't know, please ask her/him!)
+8. Has the availability of the articles in PMC had an impact on how you (or anyone in your community) manage your health care?
+
+We've heard from people who have used the latest research in various ways, and the stories are extremely powerful.  If you have one, please share it! It will help us to not only ensure that PubMed Central remains open as an important public resource, but also to make the case to open up additional publicly funded databases from HHS and other federal agencies as well.
+
+
+
+If you'd like to contribute your story about PubMed Central and the NIH Public Access Policy, you can e-mail Heather Joseph directly at [heather@arl.org](mailto:heather@arl.org).
+
+(Source: [http://www.taxpayeraccess.org/issues/nih/nih_action/callforstories.shtml](http://www.taxpayeraccess.org/issues/nih/nih_action/callforstories.shtml))
+

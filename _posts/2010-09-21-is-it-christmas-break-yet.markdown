@@ -1,0 +1,28 @@
+---
+author: Josef Bober
+comments: true
+date: 2010-09-21 19:00:10+00:00
+layout: post
+slug: is-it-christmas-break-yet
+title: 'Class of 2015: View Library Tips from an Upperclassman'
+wordpress_id: 2330
+categories:
+- Library News and Events
+- Serendipity
+tags:
+- library tips
+- Meet the Author
+- NUCAT
+---
+
+With the first full week of Fall classes complete, I would like to welcome the Freshman class of 2015. If they haven't already, they will shortly find Snell Library to be their second home, literally. Let's all put aside the fact that this class is spoiled by having the new 24/7 policy of the Library that we all fought for. It will help them adjust to those long nights spent doing projects last minute. (Do the rest of you Upperclassmen remember when we could get away with that?) So come on in, put the cell phone on mute, and plug those headphones in, because it will be a year of hard work with plenty of fun in between.
+
+I have listed below a few resources/events that may help those last minute panics.
+
+[NUCAT](http://nucat.lib.neu.edu/) is your resource to find any type of print/media that is in Northeastern's libraries.
+
+Here is a list of upcoming [news and events](http://www.lib.neu.edu/about_us/news_events/). Come check out the Meet The Author talks listed here.
+
+Need to find a peer-reviewed [article](http://www.lib.neu.edu/services/for_students/) by 8 AM and "Googling" isn't accepted by your Prof.?  The Library has you covered.
+
+Welcome new faces and be sure to check out all the Library has to offer. Feel free to ask any Library staff or students around you if you are confused about anything. My best advice to you is to explore the opportunities you have here at Northeastern and get involved. The Library is always looking for new ideas and new writers (so comment away right here)!.

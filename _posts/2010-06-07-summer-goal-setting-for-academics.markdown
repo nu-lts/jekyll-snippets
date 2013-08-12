@@ -1,0 +1,23 @@
+---
+author: Hillary Corbett
+comments: true
+date: 2010-06-07 17:20:14+00:00
+layout: post
+slug: summer-goal-setting-for-academics
+title: Summer goal-setting for academics
+wordpress_id: 1761
+categories:
+- Information and Society
+- Scholarly Communications
+tags:
+- Academia
+- Faculty
+- research
+- scholarly communication
+---
+
+I like to share interesting and useful blog posts that I find, and this morning I read one that resonated with me because I'm gearing up to set goals for both the summer and the coming year. Chances are, you are, too! In higher ed, we tend to think of summer as "project time," whether we're gearing up to start researching for a new article or book, or finally turning our attention to something that's been pushed to the back burner during the academic year. But so often, it seems like the summer's over before we know it, and the projects haven't gotten done.
+
+Kerry Ann Rockquemore writes a blog called "Career Advice" for Inside Higher Ed; her post this morning is "[Support for Summer Writers: No More Post-Summer Regret](http://www.insidehighered.com/advice/summer/summer1)." Rockquemore offers useful advice on planning what she calls SMART goals: Specific, Measurable, Attractive, Realistic and Time-Framed. So, instead of your goal being "work on book," it might be "complete first draft of chapter 2 by August 1st." She advises that we look carefully at our calendars for the summer, making sure that time already committed to other things (vacation, conferences, etc.) is blocked out. Only then will we know exactly how much time we can devote to our summer goals and be able to make realistic plans.
+
+I know that I definitely work more effectively, and feel more of a sense of accomplishment, when I have a "to-do" list and can cross things off as they're completed. But I do have a tendency to make those "work on book"-type goals that are vague and have no specific timeline, and now I can see that I'm setting myself up for failure by doing so. So, the first item on my to-do list for today is: "Look at calendar and determine specific schedule for working on summer projects."
